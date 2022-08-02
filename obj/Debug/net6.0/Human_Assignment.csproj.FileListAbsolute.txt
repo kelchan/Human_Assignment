@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\bin\Debug\net6.0\Human_Assignment.exe
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\bin\Debug\net6.0\Human_Assignment.deps.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\bin\Debug\net6.0\Human_Assignment.runtimeconfig.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\bin\Debug\net6.0\Human_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\bin\Debug\net6.0\Human_Assignment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\obj\Debug\net6.0\Human_Assignment.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\obj\Debug\net6.0\Human_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\obj\Debug\net6.0\Human_Assignment.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\obj\Debug\net6.0\Human_Assignment.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\obj\Debug\net6.0\Human_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\obj\Debug\net6.0\Human_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\obj\Debug\net6.0\refint\Human_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\obj\Debug\net6.0\Human_Assignment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\obj\Debug\net6.0\Human_Assignment.genruntimeconfig.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Human_Assignment\obj\Debug\net6.0\ref\Human_Assignment.dll
